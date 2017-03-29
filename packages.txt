@@ -1,0 +1,6 @@
+bash
+i3
+i3status
+vimperator
+xinit
+xrdb
