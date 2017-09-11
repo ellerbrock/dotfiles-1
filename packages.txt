@@ -1,6 +1,7 @@
 bash
 i3
 i3status
+vim
 vimperator
 xinit
 xrdb
