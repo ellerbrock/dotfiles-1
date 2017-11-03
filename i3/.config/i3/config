@@ -168,7 +168,7 @@ bindsym XF86MonBrightnessUp exec xbacklight -inc 10 #increase screen brightness
 bindsym XF86MonBrightnessDown exec xbacklight -dec 10 # increase screen brightness
 
 ## wallpaper
-exec --no-startup-id feh --bg-fill ~/Pictures/wallpaper/autumn_leaves.jpg
+exec --no-startup-id feh --bg-fill ~/Pictures/desktop.jpg
 
 ## sound
 bindsym XF86AudioRaiseVolume exec "amixer -q sset Master,0 1+ unmute"
