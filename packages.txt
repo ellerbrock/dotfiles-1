@@ -1,5 +1,7 @@
 i3
 i3status
+chunkwm
+skhd
 vim
 vimperator
 xinit
